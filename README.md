@@ -6,7 +6,15 @@ As we know, documentation in general (and a good README file in particular) is c
 
 # Table of Contents
 
-Installation
-Usage
-Credits
-License
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+
+
+# Installation
+
+In order to install the application (assuming you have SSH keys for GitHub):
+
+1. Open Git Bash and make a directory for the files on your local machine. Then clone the repo in the directory using the direction that appears in the following image:
+
+

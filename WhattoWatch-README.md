@@ -11,11 +11,8 @@ N/A: The single-page app is already deployed at GitHub pages.
 ## Table of Contents
 
 - [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributors](#contributors)
-- [Contact](#contact)
 
 
 ## Technologies Used
